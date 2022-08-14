@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAppEmail", "FormAppEmail\FormAppEmail.csproj", "{A07C6F40-F0E6-4ADB-A15B-09C0E9DF7E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07C6F40-F0E6-4ADB-A15B-09C0E9DF7E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07C6F40-F0E6-4ADB-A15B-09C0E9DF7E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07C6F40-F0E6-4ADB-A15B-09C0E9DF7E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07C6F40-F0E6-4ADB-A15B-09C0E9DF7E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8041963C-7ED6-4CAC-8B48-A59DBE0344A6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+E:\Intern\FormAppEmail\FormAppEmail\bin\Debug\net6.0-windows\FormAppEmail.exe
+E:\Intern\FormAppEmail\FormAppEmail\bin\Debug\net6.0-windows\FormAppEmail.deps.json
+E:\Intern\FormAppEmail\FormAppEmail\bin\Debug\net6.0-windows\FormAppEmail.runtimeconfig.json
+E:\Intern\FormAppEmail\FormAppEmail\bin\Debug\net6.0-windows\FormAppEmail.dll
+E:\Intern\FormAppEmail\FormAppEmail\bin\Debug\net6.0-windows\FormAppEmail.pdb
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.csproj.AssemblyReference.cache
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.Form1.resources
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.csproj.GenerateResource.cache
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.AssemblyInfoInputs.cache
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.AssemblyInfo.cs
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.csproj.CoreCompileInputs.cache
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.dll
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\refint\FormAppEmail.dll
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.pdb
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\FormAppEmail.genruntimeconfig.cache
+E:\Intern\FormAppEmail\FormAppEmail\obj\Debug\net6.0-windows\ref\FormAppEmail.dll
